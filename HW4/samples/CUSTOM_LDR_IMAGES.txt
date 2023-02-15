@@ -1,0 +1,2 @@
+The original collected LDR images are not included to reduce file size.
+Resampled versions have been attached to the project report.
